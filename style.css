@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Aladin");
+
+body {
+    background-color: #F9FF88;
+    font-family: "Aladin";
+    letter-spacing: 3px;
+    margin: auto;
+}
+
+#me {
+    border: 30px solid transparent;
+    border-radius: 50%;
+    border-image: url("nouveau.png") repeat;
+}
+/*@font-face {*/
+/*    font-family: 'Aladin';*/
+/*    src: url("https://fonts.googleapis.com/css?family=Aladin") format('woff2');*/
+/*}*/
+
+h1 
+
+p {
+    margin-left: 20px;
+}
+table {
+    border-collapse: collapse;
+    margin-left: 20px;
+}
+table td {
+    border: 1px solid black;
+}
